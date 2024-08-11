@@ -7,7 +7,7 @@ PROFESSIONAL SUMMARY <br />
 Experienced Data Analyst with 15 years of e-commerce experience and 5+ years of experience performing data transformation, visualization and analysis using various tools and programming languages. Proven history of extracting valuable insights from complex datasets. Skilled in turning business requirements into actionable plans of action and in presenting findings. Seeking opportunities to use my knowledge in data analysis to help lead to business success.
 
 PROFESSIONAL EXPERIENCE  <br />
-American Mattress (previously Top US-Mattress.com until April 2023)  <br />
+American Mattress (previously US-Mattress.com until April 2023)  <br />
 Data Analyst, Michigan Information Technology Lead, Livonia, MI, 2005-Present  <br />
 •	Extract, transform, load (ETL) and manage data from disparate data sources including Microsoft Dynamics 365 Business Central, Adobe Commerce, Zendesk, Aircall.io, Salesforce and external Excel sheets and flat files. <br />
 •	Perform cleansing, sorting, and filtering of data in Excel using formulas, charts, and pivot tables on large data sets to present sales, revenue, product, and e-commerce information to management. <br />
