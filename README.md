@@ -38,7 +38,7 @@ Operating Systems:  Windows 11, Windows 10, Windows Server 2019, Windows Server 
 CERTIFICATIONS <br />
 Python for Everybody, Coursera, University of Michigan, August 2023 <br />
 Microsoft Power BI Data Analyst Professional Certificate, Coursera, 
-Expected completion: May 2024 <br />
+Expected completion: August 2024 <br />
 •	Subsequently taking the Exam PL-300: Microsoft Power BI Data Analyst <br />
  <br />
 EDUCATION <br />
