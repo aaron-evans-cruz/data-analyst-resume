@@ -7,14 +7,14 @@ PROFESSIONAL SUMMARY <br />
 Experienced Data Analyst with 15 years of e-commerce experience and 5+ years of experience performing data transformation, visualization and analysis using various tools and programming languages. Proven history of extracting valuable insights from complex datasets. Skilled in turning business requirements into actionable plans of action and in presenting findings. Seeking opportunities to use my knowledge in data analysis to help lead to business success.
 
 PROFESSIONAL EXPERIENCE  <br />
-American Mattress (previously US-Mattress.com until April 2023)  <br />
-Data Analyst, Michigan Information Technology Lead, Livonia, MI, 2005-Present  <br />
-•	Extract, transform, load (ETL) and manage data from disparate data sources including Microsoft Dynamics 365 Business Central, Adobe Commerce, Zendesk, Aircall.io, Salesforce and external Excel sheets and flat files. <br />
-•	Perform cleansing, sorting, and filtering of data in Excel using formulas, charts, and pivot tables on large data sets to present sales, revenue, product, and e-commerce information to management. <br />
-•	Develop data models, metrics, reports, and dashboards and maintain a single source of truth for the company first in Adobe Commerce Intelligence, then Power BI. <br />
-•	Utilize SQL Select statements, joins and subqueries, combining and filtering data from different tables and data sources, to help create complex reports. <br />
+American Mattress (formerly US-Mattress.com until April 2023)  <br />
+Data Analyst, Michigan Information Technology Lead, Chicago, IL (Remote worker), 2005-Present  <br />
+•	Extract, transform, load (ETL) and manage data from disparate data sources including Microsoft Dynamics 365 Business Central, Adobe Commerce, Zendesk, Aircall.io, SQL Server, Salesforce and external Excel sheets and flat files. <br />
+•	Perform cleansing, sorting, and filtering of data in Excel using formulas, charts, and pivot tables on large data sets to present sales, financial, product, and e-commerce information to the management team. <br />
+•	Develop data models, calculated columns, measures, reports, and dashboards and maintain a single source of truth for the company in Adobe Commerce Intelligence, then Power BI. <br />
+•	Utilize SQL select statements, joins and subqueries, combining and filtering data from different tables and data sources, to help create reports manually with-in BI tools. <br />
 •	Built custom reports and dashboards in Salesforce to give real-time snapshots of company sales/revenue, return, cancellation and in-store and salesperson performance. <br />
-•	Maintain company systems, individual stores IT infrastructure, troubleshooting technical issues as they arise. <br />
+•	Help set-up and maintain company systems and individual Michigan-based retail stores IT infrastructure, troubleshooting technical issues as they arise remotely and on-site. <br />
 •	Led company of 100+ quickly into virtual mode versus in-person due to the pandemic. <br />
  <br />
 Freelance Web Developer, 2012-2020 <br />
@@ -32,7 +32,7 @@ SKILLS <br />
 Data Analysis: ETL, Power BI, Adobe Commerce Intelligence, Power Query, DAX, Salesforce Reporting, Python, Jupyter Notebook <br />
 Excel: Pivot Tables, Macros, Formulas, VLOOKUP, XLOOKUP, Charts and Graphs, Office 365 <br />
 Database:  SQL, SQL Server, Transact-SQL, Access <br />
-Programming:  PHP, HTML5, CSS3, JavaScript, jQuery <br />
+Programming:  PHP, HTML5, CSS3, JavaScript, jQuery, Visual Studio <br />
 Operating Systems:  Windows 11, Windows 10, Windows Server 2019, Windows Server 2012 <br />
  <br />
 CERTIFICATIONS <br />
@@ -49,5 +49,3 @@ Master of Business Administration (MBA)  <br />
 Eastern Michigan University, Ypsilanti, MI <br />
 Bachelor of Business Administration (BBA) <br />
 •	Major: Computer Information Systems <br />
-
-
